@@ -1,3 +1,5 @@
+![esolang](.github/preview.png)
+
 # JUMP
 
 > *"The knight moves in L-shapes. So does your code."*
